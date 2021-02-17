@@ -12,7 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
+<<<<<<< Updated upstream
 |2,0,1613529020,,"wq!"
+=======
+|2,0,1613529098,,"wq!"
+>>>>>>> Stashed changes
 :q!
 |2,0,1613528222,,"q!"
 
@@ -27,8 +31,13 @@
 # Registers:
 
 # File marks:
+<<<<<<< Updated upstream
 '0  5  28  ~/a.txt
 |4,48,5,28,1613529020,"~/a.txt"
+=======
+'0  4  24  ~/a.txt
+|4,48,4,24,1613529098,"~/a.txt"
+>>>>>>> Stashed changes
 '1  1  68  ~/a.txt
 |4,49,1,68,1613528466,"~/a.txt"
 '2  1  68  ~/a.txt
@@ -49,10 +58,17 @@
 |4,57,1,0,1613527065,"~/a.txt"
 
 # Jumplist (newest first):
+<<<<<<< Updated upstream
 -'  5  28  ~/a.txt
 |4,39,5,28,1613529020,"~/a.txt"
 -'  1  68  ~/a.txt
 |4,39,1,68,1613528981,"~/a.txt"
+=======
+-'  4  24  ~/a.txt
+|4,39,4,24,1613529098,"~/a.txt"
+-'  1  68  ~/a.txt
+|4,39,1,68,1613529067,"~/a.txt"
+>>>>>>> Stashed changes
 -'  1  68  ~/a.txt
 |4,39,1,68,1613528466,"~/a.txt"
 -'  1  27  ~/a.txt
@@ -65,9 +81,18 @@
 # History of marks within files (newest to oldest):
 
 > ~/a.txt
+<<<<<<< Updated upstream
 	*	1613529015	0
 	"	5	28
 	^	5	29
 	.	5	28
 	+	1	69
 	+	5	28
+=======
+	*	1613529096	0
+	"	4	24
+	^	4	25
+	.	4	24
+	+	1	69
+	+	4	24
+>>>>>>> Stashed changes
